@@ -1,0 +1,6 @@
+@SignalRChatDemo_HostAddress = http://localhost:5147
+
+GET {{SignalRChatDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
